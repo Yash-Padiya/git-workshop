@@ -1,0 +1,4 @@
+Hello this is a normal text file created to test for the dev.
+The dev branch will be considered as developers branch.
+All the feature developement branches should be created from this branch itself.
+We are merging this code to staging epic staging branch for QA.
