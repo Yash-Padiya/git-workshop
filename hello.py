@@ -1,3 +1,6 @@
+"""This module prints a series of greeting messages."""
+
+
 print("Hello World")
 print("Hello Again")
 print("I like typing this.")
